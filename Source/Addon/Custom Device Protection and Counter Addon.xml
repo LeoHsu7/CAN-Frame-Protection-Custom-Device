@@ -496,7 +496,7 @@
 		</Glyph>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
-		<Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Section Page.vi</Path>
+		<Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Outgoing Page.vi</Path>
       </Item2Launch>
       <RunTimeMenu>
         <MenuItem>
