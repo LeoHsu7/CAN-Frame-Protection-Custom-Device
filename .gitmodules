@@ -1,6 +1,8 @@
 [submodule "Source/SubModules/CAN-Streaming-Support"]
 	path = Source/SubModules/CAN-Streaming-Support
 	url = https://github.com/LeoHsu7/CAN-Streaming-Support.git
+	branch = LP_optimize
 [submodule "Source/SubModules/Frame-Protection-Support"]
 	path = Source/SubModules/Frame-Protection-Support
 	url = https://github.com/LeoHsu7/Frame-Protection-Support.git
+	branch = LP_optimize
