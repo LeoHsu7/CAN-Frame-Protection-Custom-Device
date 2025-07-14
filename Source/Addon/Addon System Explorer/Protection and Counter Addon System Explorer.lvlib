@@ -43,6 +43,7 @@
 			<Item Name="Extra Pages" Type="Folder">
 				<Item Name="Counter Page.vi" Type="VI" URL="../Extra Pages/Counter Page.vi"/>
 				<Item Name="Frame Page.vi" Type="VI" URL="../Extra Pages/Frame Page.vi"/>
+				<Item Name="Outgoing Page.vi" Type="VI" URL="../RTMs/Outgoing Page.vi"/>
 				<Item Name="Protected Channel.vi" Type="VI" URL="../Extra Pages/Protected Channel.vi"/>
 				<Item Name="Protection Channel.vi" Type="VI" URL="../Extra Pages/Protection Channel.vi"/>
 				<Item Name="Section Page.vi" Type="VI" URL="../Extra Pages/Section Page.vi"/>
@@ -52,7 +53,6 @@
 				<Item Name="EnableDisable Main Page.vi" Type="VI" URL="../RTMs/EnableDisable Main Page.vi"/>
 				<Item Name="Make Counter Signal.vi" Type="VI" URL="../RTMs/Make Counter Signal.vi"/>
 				<Item Name="Make Protection Signal.vi" Type="VI" URL="../RTMs/Make Protection Signal.vi"/>
-				<Item Name="Outgoing Page.vi" Type="VI" URL="../RTMs/Outgoing Page.vi"/>
 				<Item Name="Select Channels.vi" Type="VI" URL="../RTMs/Select Channels.vi"/>
 				<Item Name="Select XNET Signals.vi" Type="VI" URL="../RTMs/Select XNET Signals.vi"/>
 			</Item>
