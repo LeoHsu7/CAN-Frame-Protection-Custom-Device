@@ -528,7 +528,7 @@
 		</Glyph>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
-		<Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Section Page.vi</Path>
+		<Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Outgoing Sub-Section Page.vi</Path>
       </Item2Launch>
 	  <RunTimeMenu>
 	  		<MenuItem>
@@ -840,7 +840,7 @@
       </Glyph>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
-        <Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Section Page.vi</Path>
+        <Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Outgoing Sub-Section Page.vi</Path>
       </Item2Launch>
       <RunTimeMenu>
         <MenuItem>
@@ -924,7 +924,7 @@
       </Glyph>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
-        <Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Section Page.vi</Path>
+        <Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Outgoing Sub-Section Page.vi</Path>
       </Item2Launch>
       <RunTimeMenu>
         <MenuItem>
@@ -1075,6 +1075,24 @@
           </Item2Launch>
         </MenuItem>
       </RunTimeMenu>
+    </Page>
+    <Page>
+      <Name>
+        <eng>#Tx Control</eng>
+        <loc>#Tx Control</loc>
+      </Name>
+      <DisallowRenaming>true</DisallowRenaming>
+      <DeleteProtection>true</DeleteProtection>
+      <ExcludeFromAlphabeticalOrder>true</ExcludeFromAlphabeticalOrder>
+      <GUID>80ed5439-6dc5-46c4-84a0-0135efdb4971</GUID>
+      <Glyph>
+        <Type>To Application Data Dir</Type>
+        <Path>System Explorer\Glyphs\NI-XNET DropFrames.png</Path>
+      </Glyph>
+      <Item2Launch>
+        <Type>To Common Doc Dir</Type>
+        <Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Tx Control Page.vi</Path>
+      </Item2Launch>
     </Page>
 	</Pages>
 	<CustomXML>
